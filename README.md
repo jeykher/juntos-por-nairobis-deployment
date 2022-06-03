@@ -1,3 +1,2 @@
-# juntos-por-nairobis-deployment
+# Juntos Por Nairobis Deployment
 
->> Hatom Softwares Juntos Por Nairobis Deployment
