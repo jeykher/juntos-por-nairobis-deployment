@@ -1,0 +1,39 @@
+{
+    // Vscode Font
+    "editor.fontFamily": "'Victor Mono', Consolas, 'Courier New', monospace",
+	"editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "bold",
+    // Bracket pair coloraized configuration
+    "brackets-pair-colorized-2.colors": [
+        "#fafafa",
+        "#9f51b6",
+        "#f7c244",
+        "#f07850",
+        "#9cdd29",
+        "#0098fa"
+    ],
+    // Peacok Configuration
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#cd467f",
+        "activityBar.activeBorder": "#74c936",
+        "activityBar.background": "#cd467f",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#74c936",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#cd467f",
+        "statusBar.background": "#b03066",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#cd467f",
+        "statusBarItem.remoteBackground": "#b03066",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#b03066",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#b0306699",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#b03066",
+    // TypeScript
+    "typescript.validate.enable": true
+}
